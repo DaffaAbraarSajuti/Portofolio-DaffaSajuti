@@ -1,0 +1,63 @@
+body {
+    background-color: aliceblue;
+}
+.Home {
+    height: 656px;
+}
+.Home h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family:cursive;
+}
+.Home p {
+    text-align: center;
+    width: 270px;
+    margin: auto;
+    font-size: 18px;
+}
+.Home .name {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Home .nickname {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Intro {
+    margin: auto;
+}
+.About {
+    height: 656px;
+}
+.column1 {
+    text-align: justify;
+}
+.Project {
+
+}
+.column4 {
+    background-color: #cfe2ff;
+    border-radius: 10px;   
+    text-align: justify;
+    box-shadow : inset 0px 4px 6px rgba(0, 0, 0, 0.3);
+}
+.column4 p {
+   background-color:aliceblue;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.Project {
+    height: 600px;
+}
+.Project h2 {
+    font-size: 22px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.Project p {
+    height: 130px;
+}
+footer {
+    background-color: #cfe2ff;
+}
+.row a {
+    color: black;
+}
